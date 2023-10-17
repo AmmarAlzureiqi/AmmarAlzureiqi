@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, It's Ammar</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">Master's of Computer Science and Data Science at UIUC in </h3>
 
 
 👋🏽 Motivated and competent data scientist with a track record of project success. Looking for job opportunities in software development and data science. Eager to learn and grow with an organization.
