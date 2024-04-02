@@ -20,5 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammaralzureiqi&show_icons=true&locale=en&layout=compact" alt="ammaralzureiqi" /></p>
 
-<img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg" alt="Snake animation" />
 
