@@ -1,5 +1,3 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-
 <h1 align="center">Hey 👋, It's Ammar</h1>
 <h3 align="center"> Student @ UIUC: Master's of Computer Science in Data Science </h3>
 
