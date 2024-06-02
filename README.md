@@ -23,10 +23,6 @@
 
 tempp-----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammaralzureiqi&label=Profile%20views&color=0e75b6&style=flat" alt="ammaralzureiqi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammaralzureiqi" alt="ammaralzureiqi" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://ammaralzureiqi.github.io/](https://ammaralzureiqi.github.io/)
 
 - 📫 How to reach me **alzureiqi2@gmail.com**
