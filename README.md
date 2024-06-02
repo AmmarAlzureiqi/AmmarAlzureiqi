@@ -20,14 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammaralzureiqi&show_icons=true&locale=en&layout=compact" alt="ammaralzureiqi" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralzureiqi)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralzureiqi&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralzureiqi&langs_count=8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralzureiqi&hide=python)
-
 tempp-----
 
 - 👨‍💻 All of my projects are available at [https://ammaralzureiqi.github.io/](https://ammaralzureiqi.github.io/)
