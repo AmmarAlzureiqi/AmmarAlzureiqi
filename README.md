@@ -10,9 +10,15 @@
 
 🔭 I am currently a master's student at the University of Illinois at Urbana-Champaign, pursuing a master's degree in computer science with a specialization in data science. My academic background includes a bachelor's degree in statistics, and I have a strong foundation in data science. I am constantly on the lookout for exciting opportunities in the fields of machine learning and data science, where I can apply and expand my skills.
 
+- 👨‍💻 All of my projects are available at [https://ammaralzureiqi.github.io/](https://ammaralzureiqi.github.io/)
+
+- 📫 How to reach me **alzureiqi2@gmail.com**
+
+- 📄 Know about my experiences [https://ammaralzureiqiresume.tiiny.site/](https://ammaralzureiqiresume.tiiny.site/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ammar alzureiqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar alzureiqi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ammar-alzureiqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-alzureiqi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
@@ -44,18 +50,6 @@
 
 
 
-tempp-----
-
-- 👨‍💻 All of my projects are available at [https://ammaralzureiqi.github.io/](https://ammaralzureiqi.github.io/)
-
-- 📫 How to reach me **alzureiqi2@gmail.com**
-
-- 📄 Know about my experiences [https://ammaralzureiqiresume.tiiny.site/](https://ammaralzureiqiresume.tiiny.site/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ammar-alzureiqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-alzureiqi" height="30" width="40" /></a>
-</p>
 
 
 
