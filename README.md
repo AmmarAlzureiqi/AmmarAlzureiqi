@@ -24,6 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralzureiqi&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralzureiqi&langs_count=8)
 
 tempp-----
 
