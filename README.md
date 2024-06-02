@@ -26,6 +26,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralzureiqi&langs_count=8)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralzureiqi&hide=python)
+
 tempp-----
 
 - 👨‍💻 All of my projects are available at [https://ammaralzureiqi.github.io/](https://ammaralzureiqi.github.io/)
