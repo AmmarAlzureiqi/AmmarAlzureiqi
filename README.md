@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **alzureiqi2@gmail.com**
 
-- 📄 Know about my experiences [https://ammaralzureiqiresume.tiiny.site/](https://ammaralzureiqiresume.tiiny.site/)
+- 📄 Know about my experiences [https://ammaralzureiqi.tiiny.site/](https://ammaralzureiqiresume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
