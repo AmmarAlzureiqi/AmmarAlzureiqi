@@ -12,9 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ammaralzureiqi.github.io/](https://ammaralzureiqi.github.io/)
 
-- 📫 How to reach me **alzureiqi2@gmail.com**
-
-- 📄 Know about my experiences [https://ammaralzureiqi.tiiny.site/](https://ammaralzureiqi.tiiny.site/)
+- 📫 How to reach me **alzureiqi3@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
