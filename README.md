@@ -1,61 +1,45 @@
-<h1 align="center">Hey 👋, It's Ammar</h1>
-<h3 align="center"> Student @ UIUC: Master's of Computer Science in Data Science </h3>
+# 👋 Hi there, I'm Ammar Alzureiqi!
 
+Welcome to my GitHub! I'm a **Software Engineer** with a passion for AI-driven solutions and full-stack development. My journey has been shaped by a strong foundation in **Computer Science** and **Statistics**, a love for impactful projects, and a constant drive for learning.
 
-👋🏽 Motivated and competent data scientist with a track record of project success. Looking for job opportunities in software development and data science. Eager to learn and grow with an organization.
+### 🚀 About Me
+- **Master's in Computer Science** from University of Illinois Urbana-Champaign
+- **Bachelor's in Statistics** from Western University
+- Deep interest in leveraging AI/ML, computer vision, and cloud infrastructure to solve real-world problems
 
-📚 I'm eager and enthusiastic about learning from and collaborating with experts in the field, and I am dedicated to continuous growth and development.
+### 💡 Tech Stack & Skills
+I'm experienced in:
 
-💪🏽 Python, R, C++, Java, JavaScript, SQL, and extensive experience in machine learning/statistics.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</div>
 
-🔭 I am currently a master's student at the University of Illinois at Urbana-Champaign, pursuing a master's degree in computer science with a specialization in data science. My academic background includes a bachelor's degree in statistics, and I have a strong foundation in data science. I am constantly on the lookout for exciting opportunities in the fields of machine learning and data science, where I can apply and expand my skills.
+### 💻 Projects
+Here are some of the things I've built that I'm proud of:
+- **Hirestack**: A job aggregation platform that scrapes data from major job boards and uses **AWS serverless infrastructure** to provide insightful analytics on the job market. Built with Python, Django, and AWS Lambda.
+- **Head Count**: An IoT-based **people counter** leveraging **computer vision** to help retail stores optimize space and staffing decisions. Implemented with Python, OpenCV, FastAPI, and Docker.
 
-- 👨‍💻 All of my projects are available at [https://ammaralzureiqi.github.io/](https://ammaralzureiqi.github.io/)
+Feel free to explore my repositories to see the code behind these projects and many more!
 
-- 📫 How to reach me **alzureiqi3@gmail.com**
-  
+### 🌱 What I'm Learning
+I'm currently exploring advanced **LLMs** and their application in business intelligence, including frameworks like **RAG** and **Agentic LLMs**. I'm also diving deeper into cloud-native solutions for AI deployment.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ammar-alzureiqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-alzureiqi" height="30" width="40" /></a>
-</p>
+### 🤝 Let's Connect!
+I love collaborating with like-minded individuals! If you're working on an exciting project or just want to have a chat about AI, tech, or entrepreneurship, feel free to reach out.
+- [LinkedIn](https://linkedin.com/in/AmmarAlzureiqi)
+- [Portfolio](https://ammaralzureiqi.github.io/)
+- Email: alzureiqi3@gmail.com
 
-<h3 align="left">Programming Languages:</h3>
-
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</p>
-
-###
-  
-<h3 align="left">Frontend Development:</h3>
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<h3 align="left">AI/ML:</h3>
-
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Databases:</h3>
-
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</p>
-
-
-###
-
-<h3 align="left">Frameworks and Development:</h3>
-
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-[comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammaralzureiqi&show_icons=true&locale=en&layout=compact" alt="ammaralzureiqi" />
-)
-
-
-
-
-
-
-
-
-
+Thanks for visiting my GitHub profile! Stay tuned for more interesting projects and collaborations! ✨
